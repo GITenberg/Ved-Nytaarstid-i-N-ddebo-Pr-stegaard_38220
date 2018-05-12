@@ -1,0 +1,31 @@
+_repo: Ved-Nytaarstid-i-N-ddebo-Pr-stegaard_38220
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Scharling, C. Henrik (Carl Henrik)
+    aliases:
+    - Scharling, Henrik
+    - Scharling, Carl Henrik
+    - Nicolai
+    birthdate: 1836
+    deathdate: 1920
+    gutenberg_agent_id: '39318'
+    url: http://www.gutenberg.org/2009/agents/39318
+    wikipedia: http://da.wikipedia.org/wiki/Henrik_Scharling
+description: ''
+gutenberg_issued: '2011-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38220'
+language: da
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Christian life -- Fiction'
+title: Ved Nytaarstid i Nøddebo Præstegaard
+url: http://www.gutenberg.org/ebooks/38220
