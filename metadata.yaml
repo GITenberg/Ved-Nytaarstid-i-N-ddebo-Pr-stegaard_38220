@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39318
     wikipedia: http://da.wikipedia.org/wiki/Henrik_Scharling
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38220#Ved-Nytaarstid-i-N-ddebo-Pr-stegaard
 gutenberg_issued: '2011-12-04'
 gutenberg_type: Text
 identifiers:
